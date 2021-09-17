@@ -24,9 +24,8 @@ Made by @FayasNoushad
 """
     ABOUT_TEXT = """
 - **Bot :** `URL Uploader`
-- **Creator :** [Fayas](https://t.me/VaComp)
-- **Channel :** [Fayas Noushad](https://t.me/VaComp)
-- **Credits :** `Everyone in this journey`
+- **Creator :** [MHDMILHEM](https://t.me/VaComp)
+- **Channel :** [MHDMILHEM](https://t.me/VaComp)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
@@ -73,4 +72,3 @@ URL | newfilename | username | password"""
     REPORT_SITE_TEXT = "<code>Sorry not uploading in this site here because this site is reporting site.</code>"
     SOMETHING_WRONG = "<code>Something Wrong. Try again.</code>"
     FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
-    FREE_USER_LIMIT_Q_SZE = "Sorry Friend, Free users can only 1 request per {} minutes. Please try again after {} seconds later."
